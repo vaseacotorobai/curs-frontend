@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Introduction to Front-end Development</h1>
 
 <p>A front-end developer architects and develops client part of websites and applications using web technologies (languages):</p>
@@ -15,3 +16,8 @@
 
 
 
+=======
+# curs-frontend
+bine ai venit
+ma numesc Vasile
+>>>>>>> 9fb34ae925a7ff7b230c865e9724b3a52443802a
