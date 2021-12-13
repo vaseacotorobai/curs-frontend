@@ -16,8 +16,5 @@
 
 
 
-=======
-# curs-frontend
-bine ai venit
-ma numesc Vasile
->>>>>>> 9fb34ae925a7ff7b230c865e9724b3a52443802a
+
+
